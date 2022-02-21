@@ -1,1 +1,1 @@
-# hemolytic-prediction-of--peptides
+# Hemolytic-prediction-of--peptides
